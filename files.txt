@@ -1,6 +1,6 @@
-D:\DCIM\115MSDCF
-C:\Users\user\Desktop\poze  cu masina
-ARW
+D:\DCIM\115MSDCF //Source
+C:\Users\user\Desktop\poze  cu masina //Destination
+ARW //Filetype
 _DSC0231
 _DSC0234
 _DSC0235
